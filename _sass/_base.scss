@@ -182,11 +182,14 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    // font-family: monospace;
+    font-family: "Times New Roman", Times, serif;
 
+    
     p {
       display: inline-block;
       margin: 0;
+      font-size: 0.5rem;
     }
   }
 }
