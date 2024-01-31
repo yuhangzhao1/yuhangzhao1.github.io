@@ -32,22 +32,23 @@ body.sticky-bottom-footer {
 }
 
 .btn {
-  background-color: red; 
+  background-color: white; 
   border: 2px solid #{$red-color-dark};
   border-radius: 8px;
   color: black;
-  padding: 10px 10px;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
   box-shadow: none;
+  margin-left: 0px;
 }
 
 // Profile
 .profile {
   img {
-    width: 100%;
+    width: 150%;
   }
 }
 

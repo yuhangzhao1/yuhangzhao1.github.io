@@ -58,7 +58,41 @@ table.table a {
 figure,
 img {
   max-width: 90vw;
+
+  .image-cropped-calc {
+    top: 0;
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+  }
+
+  .image-cropped-transform {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 55%;
+    transform: scale(0.5) translate(0, 5%);
+  }
+
+  .cropped-image-clip-polygon {
+    height: 100%;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  } 
+
+  .cropped-image-clip-rectangle {
+    object-fit: cover;
+  }
+
+  .non-cropped {
+    width: 240px;
+    clip-path: inset(0 0 0 0 round 0);
+    
+  }
 }
+
+
 
 blockquote {
   background: var(--global-bg-color);
@@ -182,14 +216,14 @@ blockquote {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    // font-family: monospace;
-    font-family: "Times New Roman", Times, serif;
+    font-family: monospace;
+    // font-family: "Times New Roman", Times, serif;
 
     
     p {
       display: inline-block;
       margin: 0;
-      font-size: 0.5rem;
+      font-size: 0.8rem;
     }
   }
 }
@@ -199,7 +233,7 @@ blockquote {
 }
 
 .profile.float-left {
-  margin-right: 1rem;
+  margin-right: 0.8rem;
 }
 
 @media (min-width: 576px) {
@@ -622,7 +656,7 @@ footer.sticky-bottom {
 
   .grid-sizer,
   .grid-item {
-    width: 250px;
+    width: 200px;
     margin-bottom: 10px;
   }
 
@@ -677,7 +711,8 @@ footer.sticky-bottom {
       .preview {
         width: 100%;
         min-width: 80px;
-        max-width: 200px;
+        margin-top: 5px;
+        // max-width: 200px;
       }
 
       .abbr {
@@ -707,9 +742,14 @@ footer.sticky-bottom {
 
       .title {
         font-weight: bolder;
+
+        > em {
+          color: #{$red-color-dark};
+        }
       }
 
       .author {
+        font-size: small;
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
@@ -735,6 +775,14 @@ footer.sticky-bottom {
           }
         }
       }
+      .periodical{
+        > em {
+          font-style: normal;
+          font-size: small;
+        }
+
+      }
+      
 
       .links {
         a.btn {
