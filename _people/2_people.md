@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kassie Povinelli Test
+title: Kassie Povinelli
 description: kassie.povinelli@wisc.edu
 url_t: 
 crop: "cropped-image-clip-rectangle"
