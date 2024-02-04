@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ru Wang
-description: ru.wang@wisc.edu
+description: ru.wang [at] wisc.edu
 url_t: https://ru-wang.com/
 img: assets/img/ru.jpeg
 crop: "cropped-image-clip-rectangle"

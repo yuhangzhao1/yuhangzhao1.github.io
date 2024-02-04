@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ruijia Chen
-description: ruijia.chen@wisc.edu
+description: ruijia.chen [at] wisc.edu
 url_t: https://chenruijia120.github.io/
 crop: "cropped-image-clip-rectangle"
 img: assets/img/ruijia.jpg

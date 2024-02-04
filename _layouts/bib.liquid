@@ -19,7 +19,7 @@
           %}
         {% endif %}
       {% elsif entry.video_preview %}
-        <iframe class="preview" width="150" height="130" src="{{ entry.video_preview }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
+        <iframe class="preview" width="150" height="130" src="{{ entry.video_preview }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen/>
       {% elsif entry.abbr %}
         {% if site.data.venues[entry.abbr] %}
           {% assign venue_style = null %}
@@ -55,7 +55,7 @@
     {% capture entrytype %}{% endcapture %}
     {% endif %}
     <div class="title">{{ entry.title }}</div>
-    <div class="title"><em>{{pub}}</em></div>
+    <div class="title"><em>{{pub}}</em> &nbsp; {%if entry.award%}<i class="fas fa-award" style="color: #b71c1c;"></i> <em>{{entry.award}}</em>{%endif%}</div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}

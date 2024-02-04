@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kassie Povinelli
-description: kassie.povinelli@wisc.edu
+description: kassie.povinelli [at] wisc.edu
 url_t: 
 crop: "cropped-image-clip-rectangle"
 img: assets/img/kassie.jpeg
