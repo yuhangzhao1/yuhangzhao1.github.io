@@ -2,7 +2,7 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-    <div class="col-sm-4 {% if entry.preview | entry.video_preview %}col-sm-4{% else %}abbr{% endif %}">
+    <div class="col-sm-4 {% if entry.preview %}col-sm-4{%elsif entry.video_preview%}col-sm-4{% else %}abbr{% endif %}">
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview" src="{{ entry.preview }}">
