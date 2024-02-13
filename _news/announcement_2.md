@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My students [Kexin Zhang](https://scholar.google.com/citations?user=RNoZyNoAAAAJ&hl=en) and Ruijia Chen's research on exploring the design space of AR head-mounted displays for first responders accepted to CHI 2024!
+My students [Kexin Zhang](https://scholar.google.com/citations?user=RNoZyNoAAAAJ&hl=en) and [Ruijia Chen](https://chenruijia120.github.io/)'s research on exploring the design space of AR head-mounted displays for first responders accepted to CHI 2024!
