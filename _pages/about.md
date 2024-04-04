@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Office Number: CS 6393 </p>
-    <p>yuhang.zhao [at] cs.wic.edu</p>
+    <p>yuhang.zhao [at] cs.wisc.edu</p>
    # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
