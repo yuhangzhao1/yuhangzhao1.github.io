@@ -1,5 +1,8 @@
+{% if site.resume %}
+  <a href="https://drive.google.com/file/d/1bDllACPVGUbxupZJ3wMsV0F7wEbEj50a/view" title="resume"><i class="fa-regular fa-file-lines"></i></a>
+{% endif %}
 {% if site.email %}
-  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-envelope"></i></a>
+  <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fa-solid fa-square-envelope"></i></a>
 {% endif %}
 {% if site.telegram_username %}
   <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fa-brands fa-telegram"></i></a>
