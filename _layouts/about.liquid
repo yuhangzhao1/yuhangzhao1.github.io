@@ -37,23 +37,19 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix" >
-    {{ content }}
+    <div class="clearfix">
+      {{ content }}
 
-    {% if page.social %}
-      <div class="social" style="text-align:right; margin-right:150px">
-        <div class="contact-icons" style="margin-right:150px">{% include social.liquid %}</div>
-      </div>
-    {% endif %}
-
+      {% if page.social %}
+        <div class="social" style="text-align:right; margin-right:150px">
+          <div class="contact-icons" style="margin-right:150px">{% include social.liquid %}</div>
+        </div>
+      {% endif %}
     </div>
 
     <br>
     <br>
 
-
-
-    
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -70,19 +66,36 @@ layout: default
       {% include latest_posts.liquid %}
     {% endif %}
 
-
-<br>
-<br>
+    <br>
+    <br>
     <!-- Recent Talks -->
     {% if page.videos %}
-      <h2>
-       RECENT TALKS
-      </h2>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/adVAzhOouR4?si=rgFZ-wlrDbc6TB51" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <iframe src="https://player.vimeo.com/video/315701276?h=e632009657" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/xwWx5B_W0AI?si=tbjzw_m8f8p754hI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <h2>RECENT TALKS</h2>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/adVAzhOouR4?si=rgFZ-wlrDbc6TB51"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
+      <iframe
+        src="https://player.vimeo.com/video/315701276?h=e632009657"
+        width="560"
+        height="315"
+        frameborder="0"
+        allow="autoplay; fullscreen; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+      <iframe
+        width="560"
+        height="315"
+        src="https://www.youtube.com/embed/xwWx5B_W0AI?si=tbjzw_m8f8p754hI"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+      ></iframe>
     {% endif %}
-
 
     <!-- Selected papers -->
     {% if page.selected_papers %}
@@ -91,6 +104,5 @@ layout: default
       </h2>
       {% include selected_papers.liquid %}
     {% endif %}
-
   </article>
 </div>

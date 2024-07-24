@@ -10,8 +10,6 @@ pageheaders: false
 related_publications: false
 ---
 
-
-
 <!-- _pages/publications.md -->
 <div class="publications">
 

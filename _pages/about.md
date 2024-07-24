@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Office Number: CS 6393 </p>
     <p>yuhang.zhao [at] cs.wisc.edu</p>
-   # <p>Your City, State 12345</p>
+  # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -22,9 +22,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in [Computer Sciences at the University of Wisconsin-Madison](https://www.cs.wisc.edu/). My research interests include Human-Computer Interaction (HCI), accessibility, augmented and virtual reality (AR/VR), and AI-powered interactive systems. **I design and build intelligent interactive systems to enhance human abilities.** Via my research, I seek to understand the challenges and needs of people with diverse abilities, and design systems and interaction techniques to empower them in real life activities as well as the emerging virtual worlds. 
+I am an Assistant Professor in [Computer Sciences at the University of Wisconsin-Madison](https://www.cs.wisc.edu/). My research interests include Human-Computer Interaction (HCI), accessibility, augmented and virtual reality (AR/VR), and AI-powered interactive systems. **I design and build intelligent interactive systems to enhance human abilities.** Via my research, I seek to understand the challenges and needs of people with diverse abilities, and design systems and interaction techniques to empower them in real life activities as well as the emerging virtual worlds.
+
 <!-- My work has been published at many top-tier conferences and journals in the field of Human-Computer Interaction (including three best paper nominees), as well as 3 U.S. and international patents.  -->
-I received my Ph.D. degree from Cornell Tech, Cornell University, and B.E. and M.S. degrees in Computer Science from Tsinghua University. 
+
+I received my Ph.D. degree from Cornell Tech, Cornell University, and B.E. and M.S. degrees in Computer Science from Tsinghua University.
 
 <!-- <br> -->
 <!-- [<i class="ai ai-google-scholar" style="font-size: 1.2em;"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=yeNjTZUAAAAJ&view_op=list_works){:.btn} [Download CV](https://drive.google.com/file/d/1bDllACPVGUbxupZJ3wMsV0F7wEbEj50a/view){:.btn} -->

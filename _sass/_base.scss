@@ -79,7 +79,7 @@ img {
   .cropped-image-clip-polygon {
     height: 100%;
     clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
-  } 
+  }
 
   .cropped-image-clip-rectangle {
     object-fit: cover;
@@ -88,11 +88,8 @@ img {
   .non-cropped {
     width: 240px;
     clip-path: inset(0 0 0 0 round 0);
-    
   }
 }
-
-
 
 blockquote {
   background: var(--global-bg-color);
@@ -219,7 +216,6 @@ blockquote {
     font-family: monospace;
     // font-family: "Times New Roman", Times, serif;
 
-    
     p {
       display: inline-block;
       margin: 0;
@@ -716,7 +712,7 @@ footer.sticky-bottom {
         // max-width: 200px;
       }
 
-      .row{
+      .row {
         min-height: 130px;
         overflow: hidden;
       }
@@ -781,14 +777,12 @@ footer.sticky-bottom {
           }
         }
       }
-      .periodical{
+      .periodical {
         > em {
           font-style: normal;
           font-size: small;
         }
-
       }
-      
 
       .links {
         a.btn {
