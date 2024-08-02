@@ -9,7 +9,7 @@ last_name: Zhao
 email: yuhang.zhao@cs.wisc.edu
 resume: https://drive.google.com/file/d/1bDllACPVGUbxupZJ3wMsV0F7wEbEj50a/view
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Assistant Professor of Computer Science at University of Wisconsin-Madison. I create intelligent interactive systems to enhance human abilities.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
