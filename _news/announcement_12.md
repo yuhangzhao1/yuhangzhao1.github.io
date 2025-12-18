@@ -14,4 +14,3 @@ related_posts: false
 [Characterizing Visual Intents for People with Low Vision through Eye Tracking](https://doi.org/full/10.1145/3663547.3746391) by [Ru Wang](https://ru-wang.com/) <br>
 
 [“It was Mentally Painful to Try and Stop”: Design Opportunities for Just-in-Time Interventions for People with Obsessive-Compulsive Disorder in the Real World](https://doi.org/full/10.1145/3663547.3746394) by [Ru Wang](https://ru-wang.com/) -->
-
