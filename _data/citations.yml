@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-05'
 papers:
   yeNjTZUAAAAJ:-f6ydRqryjwC:
     citations: 9
@@ -106,7 +106,7 @@ papers:
     title: '" It Looks Beautiful but Scary" How Low Vision People Navigate Stairs and Other Surface Level Changes'
     year: '2018'
   yeNjTZUAAAAJ:L8Ckcad2t8MC:
-    citations: 27
+    citations: 28
     title: Teacher views of math e-learning tools for students with specific learning disabilities
     year: '2020'
   yeNjTZUAAAAJ:LkGwnXOMwfcC:
@@ -206,7 +206,7 @@ papers:
     title: 'Facesight: Enabling hand-to-face gesture interaction on ar glasses with a downward-facing camera vision'
     year: '2021'
   yeNjTZUAAAAJ:Zph67rFs4hoC:
-    citations: 294
+    citations: 295
     title: 'SeeingVR: A set of tools to make virtual reality more accessible to people with low vision'
     year: '2019'
   yeNjTZUAAAAJ:_Qo2XoVZTnwC:
@@ -226,7 +226,7 @@ papers:
     title: 'SPICA: interactive video content exploration through augmented audio descriptions for blind or low-vision viewers'
     year: '2024'
   yeNjTZUAAAAJ:cFHS6HbyZ2cC:
-    citations: 0
+    citations: 1
     title: "\u201CIt was Mentally Painful to Try and Stop\u201D: Design Opportunities for Just-in-Time Interventions for People with Obsessive-Compulsive Disorder in the Real World"
     year: '2025'
   yeNjTZUAAAAJ:d1gkVwhDpl0C:
@@ -278,11 +278,11 @@ papers:
     title: A Multi-modal Toolkit to Support DIY Assistive Technology Creation for Blind and Low Vision People
     year: '2023'
   yeNjTZUAAAAJ:lSLTfruPkqcC:
-    citations: 6
+    citations: 7
     title: 'XR for All: Understanding Developer Perspectives on Accessibility Integration in Extended Reality'
     year: '2024'
   yeNjTZUAAAAJ:ldfaerwXgEUC:
-    citations: 14
+    citations: 15
     title: 'Inclusive avatar guidelines for people with disabilities: Supporting disability representation in social virtual reality'
     year: '2025'
   yeNjTZUAAAAJ:mVmsd5A6BfQC:
@@ -300,6 +300,10 @@ papers:
   yeNjTZUAAAAJ:pqnbT2bcN3wC:
     citations: 3
     title: "Beyond the \u201CIndustry Standard\u201D: Focusing Gender-Affirming Voice Training Technologies on Individualized Goal Exploration."
+    year: '2025'
+  yeNjTZUAAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: 'EasyVizAR: Supporting First Responders Through the Use of Collaborative Augmented Reality Tools'
     year: '2025'
   yeNjTZUAAAAJ:qUcmZB5y_30C:
     citations: 6
