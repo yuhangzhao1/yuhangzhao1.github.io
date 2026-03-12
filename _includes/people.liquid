@@ -1,0 +1,44 @@
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <div>
+    {% if people.img %}
+      {% if people.crop %}
+        {%
+          include figure.liquid
+          path=people.img
+          class=people.crop
+          width="250"
+          height="250"
+          alt="people thumbnail"
+        %}
+      {% else %}
+        {%
+          include figure.liquid
+          path=people.img
+          alt="people thumbnail"
+        %}
+      {% endif %}
+    {% endif %}
+    <div>
+      <strong>
+        <a href="{{ people.url_t }}" style="color:black">{{ people.title }}</a>
+      </strong>
+      <p>{{ people.description }}</p>
+      <div class="row ml-1 mr-1 p-0">
+        {% if project.github %}
+          <div class="github-icon">
+            <div class="icon" data-toggle="tooltip" title="Code Repository">
+              <a href="{{ people.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+            </div>
+            {% if people.github_stars %}
+              <span class="stars" data-toggle="tooltip" title="GitHub Stars">
+                <i class="fa-solid fa-star"></i>
+                <span id="{{ people.github_stars }}-stars"></span>
+              </span>
+            {% endif %}
+          </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
