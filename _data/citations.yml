@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-01'
 papers:
   yeNjTZUAAAAJ:-f6ydRqryjwC:
     citations: 9
@@ -30,7 +30,7 @@ papers:
     title: 'Demonstration of VRSight: AI-driven real-time descriptions to enhance VR accessibility for blind people'
     year: '2025'
   yeNjTZUAAAAJ:4JMBOYKVnBMC:
-    citations: 23
+    citations: 24
     title: "{\u201CIf} sighted people know, I should be able to {know:\u201D} Privacy Perceptions of Bystanders with Visual Impairments around Camera-based Technology"
     year: '2023'
   yeNjTZUAAAAJ:4OULZ7Gr8RgC:
@@ -58,7 +58,7 @@ papers:
     title: 'A Face Recognition Application for People with Visual Impairments: Understanding Use Beyond the Lab'
     year: '2018'
   yeNjTZUAAAAJ:9ZlFYXVOiuMC:
-    citations: 13
+    citations: 12
     title: Apparatus for use in a virtual reality system
     year: '2020'
   yeNjTZUAAAAJ:9yKSN-GCB0IC:
@@ -82,7 +82,7 @@ papers:
     title: Characterizing barriers and technology needs in the kitchen for blind and low vision people
     year: '2023'
   yeNjTZUAAAAJ:HDshCWvjkbEC:
-    citations: 128
+    citations: 131
     title: 'Sok: Authentication in augmented and virtual reality'
     year: '2022'
   yeNjTZUAAAAJ:HoB7MX3m0LUC:
@@ -90,7 +90,7 @@ papers:
     title: Measurement of optical losses in a high-finesse 300 m filter cavity for broadband quantum noise reduction in gravitational-wave detectors
     year: '2018'
   yeNjTZUAAAAJ:IWHjjKOFINEC:
-    citations: 126
+    citations: 129
     title: 'Communicating visualizations without visuals: Investigation of visualization alternative text for people with visual impairments'
     year: '2021'
   yeNjTZUAAAAJ:IjCSPb-OGe4C:
@@ -106,7 +106,7 @@ papers:
     title: 'Ai-vision: a three-layer accessible image exploration system for people with visual impairments in China'
     year: '2024'
   yeNjTZUAAAAJ:KlAtU1dfN6UC:
-    citations: 60
+    citations: 61
     title: '" It Looks Beautiful but Scary" How Low Vision People Navigate Stairs and Other Surface Level Changes'
     year: '2018'
   yeNjTZUAAAAJ:L8Ckcad2t8MC:
@@ -134,15 +134,15 @@ papers:
     title: 'Cookar: Affordance augmentations in wearable ar to support kitchen tool interactions for people with low vision'
     year: '2024'
   yeNjTZUAAAAJ:O3NaXMp0MMsC:
-    citations: 24
+    citations: 25
     title: 'StarRescue: the Design and Evaluation of A Turn-Taking Collaborative Game for Facilitating Autistic Children''s Social Skills'
     year: '2024'
   yeNjTZUAAAAJ:QIV2ME_5wuYC:
-    citations: 12
+    citations: 11
     title: Understanding the use of artificial intelligence based visual aids for people with visual impairments
     year: '2020'
   yeNjTZUAAAAJ:R3hNpaxXUhUC:
-    citations: 108
+    citations: 111
     title: "\u201Cit\u2019s just part of me:\u201D understanding avatar diversity and self-presentation of people with disabilities in social virtual reality"
     year: '2022'
   yeNjTZUAAAAJ:RGFaLdJalmkC:
@@ -166,7 +166,7 @@ papers:
     title: Practices and Barriers of Cooking Training for Blind and Low Vision People
     year: '2023'
   yeNjTZUAAAAJ:TQgYirikUcIC:
-    citations: 66
+    citations: 65
     title: 'Vrbubble: Enhancing peripheral awareness of avatars for people with visual impairments in social virtual reality'
     year: '2022'
   yeNjTZUAAAAJ:UeHWp8X0CEIC:
@@ -190,11 +190,11 @@ papers:
     title: The effectiveness of visual and audio wayfinding guidance on smartglasses for people with low vision
     year: '2020'
   yeNjTZUAAAAJ:Y0pCki6q_DkC:
-    citations: 111
+    citations: 112
     title: 'Finding a store, searching for a product: a study of daily challenges of low vision people'
     year: '2016'
   yeNjTZUAAAAJ:YFjsv_pBGBYC:
-    citations: 22
+    citations: 24
     title: Exploring the design space of optical see-through AR head-mounted displays to support first responders in the field
     year: '2024'
   yeNjTZUAAAAJ:YsMSGLbcyi4C:
@@ -210,7 +210,7 @@ papers:
     title: 'Facesight: Enabling hand-to-face gesture interaction on ar glasses with a downward-facing camera vision'
     year: '2021'
   yeNjTZUAAAAJ:Zph67rFs4hoC:
-    citations: 315
+    citations: 317
     title: 'SeeingVR: A set of tools to make virtual reality more accessible to people with low vision'
     year: '2019'
   yeNjTZUAAAAJ:_Qo2XoVZTnwC:
@@ -254,7 +254,7 @@ papers:
     title: '" I was Confused by It; It was Confused by Me:" Exploring the Experiences of People with Visual Impairments around Mobile Service Robots'
     year: '2022'
   yeNjTZUAAAAJ:eQOLeE2rZwMC:
-    citations: 161
+    citations: 162
     title: 'How people with low vision access computing devices: Understanding challenges and opportunities'
     year: '2016'
   yeNjTZUAAAAJ:f2IySw72cVMC:
@@ -270,7 +270,7 @@ papers:
     title: 'Cutrell, Christian Holz, Meredith Ringel Morris, Eyal Ofek, and Andy Wilson. 2019. SeeingVR: A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision'
     year: '2019'
   yeNjTZUAAAAJ:hMod-77fHWUC:
-    citations: 11
+    citations: 12
     title: "Springboard, roadblock or \u201Ccrutch\u201D?: How transgender users leverage voice changers for gender presentation in social virtual reality"
     year: '2024'
   yeNjTZUAAAAJ:hqOjcs7Dif8C:
@@ -298,15 +298,15 @@ papers:
     title: 'XR for All: Understanding Developers'' Perspectives on Accessibility Integration in Extended Reality'
     year: '2024'
   yeNjTZUAAAAJ:ldfaerwXgEUC:
-    citations: 29
+    citations: 30
     title: 'Inclusive avatar guidelines for people with disabilities: Supporting disability representation in social virtual reality'
     year: '2025'
   yeNjTZUAAAAJ:mVmsd5A6BfQC:
-    citations: 45
+    citations: 46
     title: 'Molder: an accessible design tool for tactile maps'
     year: '2020'
   yeNjTZUAAAAJ:maZDTaKrznsC:
-    citations: 44
+    citations: 45
     title: 'A Diary Study in Social Virtual Reality: Impact of Avatars with Disability Signifiers on the Social Experiences of People with Disabilities'
     year: '2023'
   yeNjTZUAAAAJ:ns9cj8rnVeAC:
@@ -318,7 +318,7 @@ papers:
     title: "Beyond the \u201CIndustry Standard\u201D: Focusing Gender-Affirming Voice Training Technologies on Individualized Goal Exploration."
     year: '2025'
   yeNjTZUAAAAJ:pyW8ca7W8N0C:
-    citations: 2
+    citations: 3
     title: 'EasyVizAR: Supporting First Responders Through the Use of Collaborative Augmented Reality Tools'
     year: '2025'
   yeNjTZUAAAAJ:qUcmZB5y_30C:
@@ -334,7 +334,7 @@ papers:
     title: 'A Demonstration of Molder: An Accessible Design Tool for Tactile Maps'
     year: '2019'
   yeNjTZUAAAAJ:r0BpntZqJG4C:
-    citations: 29
+    citations: 30
     title: Understanding how low vision people read using eye tracking
     year: '2023'
   yeNjTZUAAAAJ:rO6llkc54NcC:
@@ -342,7 +342,7 @@ papers:
     title: 'AROMA: Mixed-Initiative AI Assistance for Non-Visual Cooking by Grounding Multimodal Information Between Reality and Videos'
     year: '2025'
   yeNjTZUAAAAJ:roLk4NBRz8UC:
-    citations: 151
+    citations: 152
     title: 'ForeSee: A Customizable Head-Mounted Vision Enhancement System for People with Low Vision.'
     year: '2015'
   yeNjTZUAAAAJ:u-x6o8ySG0sC:
@@ -350,11 +350,11 @@ papers:
     title: Smart home on smart phone
     year: '2011'
   yeNjTZUAAAAJ:u5HHmVD_uO8C:
-    citations: 56
+    citations: 55
     title: Batch mode active learning for networked data
     year: '2012'
   yeNjTZUAAAAJ:u_35RYKgDlwC:
-    citations: 4
+    citations: 5
     title: Comparing vibrotactile and skin-stretch haptic feedback for conveying spatial information of virtual objects to blind VR users
     year: '2025'
   yeNjTZUAAAAJ:ufrVoPGSRksC:
