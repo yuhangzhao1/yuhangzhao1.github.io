@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-04'
 papers:
   yeNjTZUAAAAJ:-f6ydRqryjwC:
-    citations: 9
+    citations: 10
     title: 'Demonstration of VRBubble: enhancing peripheral avatar awareness for people with visual impairments in social virtual reality'
     year: '2022'
   yeNjTZUAAAAJ:0EnyYjriUFMC:
-    citations: 319
+    citations: 320
     title: Enabling people with visual impairments to navigate virtual reality with a haptic and auditory cane simulation
     year: '2018'
   yeNjTZUAAAAJ:2P1L_qKh6hAC:
@@ -58,7 +58,7 @@ papers:
     title: 'A Face Recognition Application for People with Visual Impairments: Understanding Use Beyond the Lab'
     year: '2018'
   yeNjTZUAAAAJ:9ZlFYXVOiuMC:
-    citations: 12
+    citations: 14
     title: Apparatus for use in a virtual reality system
     year: '2020'
   yeNjTZUAAAAJ:9yKSN-GCB0IC:
@@ -126,11 +126,11 @@ papers:
     title: Fairness issues in AI systems that augment sensory abilities
     year: '2020'
   yeNjTZUAAAAJ:NMxIlDl6LWMC:
-    citations: 21
+    citations: 22
     title: 'GazePrompt: Enhancing Low Vision People''s Reading Experience with Gaze-Aware Augmentations'
     year: '2024'
   yeNjTZUAAAAJ:NaGl4SEjCO4C:
-    citations: 36
+    citations: 37
     title: 'Cookar: Affordance augmentations in wearable ar to support kitchen tool interactions for people with low vision'
     year: '2024'
   yeNjTZUAAAAJ:O3NaXMp0MMsC:
@@ -166,7 +166,7 @@ papers:
     title: Practices and Barriers of Cooking Training for Blind and Low Vision People
     year: '2023'
   yeNjTZUAAAAJ:TQgYirikUcIC:
-    citations: 65
+    citations: 67
     title: 'Vrbubble: Enhancing peripheral awareness of avatars for people with visual impairments in social virtual reality'
     year: '2022'
   yeNjTZUAAAAJ:UeHWp8X0CEIC:
@@ -198,7 +198,7 @@ papers:
     title: Exploring the design space of optical see-through AR head-mounted displays to support first responders in the field
     year: '2024'
   yeNjTZUAAAAJ:YsMSGLbcyi4C:
-    citations: 153
+    citations: 154
     title: 'CueSee: exploring visual cues for people with low vision to facilitate a visual search task'
     year: '2016'
   yeNjTZUAAAAJ:ZHo1McVdvXMC:
@@ -210,7 +210,7 @@ papers:
     title: 'Facesight: Enabling hand-to-face gesture interaction on ar glasses with a downward-facing camera vision'
     year: '2021'
   yeNjTZUAAAAJ:Zph67rFs4hoC:
-    citations: 317
+    citations: 319
     title: 'SeeingVR: A set of tools to make virtual reality more accessible to people with low vision'
     year: '2019'
   yeNjTZUAAAAJ:_Qo2XoVZTnwC:
@@ -278,7 +278,7 @@ papers:
     title: Designing smartglasses applications for people with low vision
     year: '2017'
   yeNjTZUAAAAJ:iH-uZ7U-co4C:
-    citations: 8
+    citations: 9
     title: 'A Preliminary Interview: Understanding XR Developers'' Needs towards Open-Source Accessibility Support'
     year: '2023'
   yeNjTZUAAAAJ:isC4tDSrTZIC:
@@ -306,7 +306,7 @@ papers:
     title: 'Molder: an accessible design tool for tactile maps'
     year: '2020'
   yeNjTZUAAAAJ:maZDTaKrznsC:
-    citations: 45
+    citations: 47
     title: 'A Diary Study in Social Virtual Reality: Impact of Avatars with Disability Signifiers on the Social Experiences of People with Disabilities'
     year: '2023'
   yeNjTZUAAAAJ:ns9cj8rnVeAC:
@@ -334,7 +334,7 @@ papers:
     title: 'A Demonstration of Molder: An Accessible Design Tool for Tactile Maps'
     year: '2019'
   yeNjTZUAAAAJ:r0BpntZqJG4C:
-    citations: 30
+    citations: 31
     title: Understanding how low vision people read using eye tracking
     year: '2023'
   yeNjTZUAAAAJ:rO6llkc54NcC:
@@ -342,7 +342,7 @@ papers:
     title: 'AROMA: Mixed-Initiative AI Assistance for Non-Visual Cooking by Grounding Multimodal Information Between Reality and Videos'
     year: '2025'
   yeNjTZUAAAAJ:roLk4NBRz8UC:
-    citations: 152
+    citations: 153
     title: 'ForeSee: A Customizable Head-Mounted Vision Enhancement System for People with Low Vision.'
     year: '2015'
   yeNjTZUAAAAJ:u-x6o8ySG0sC:
