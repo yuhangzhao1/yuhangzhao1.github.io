@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-22'
 papers:
   yeNjTZUAAAAJ:-f6ydRqryjwC:
     citations: 11
@@ -86,11 +86,11 @@ papers:
     title: 'Sok: Authentication in augmented and virtual reality'
     year: '2022'
   yeNjTZUAAAAJ:HoB7MX3m0LUC:
-    citations: 26
+    citations: 27
     title: Measurement of optical losses in a high-finesse 300 m filter cavity for broadband quantum noise reduction in gravitational-wave detectors
     year: '2018'
   yeNjTZUAAAAJ:IWHjjKOFINEC:
-    citations: 133
+    citations: 135
     title: 'Communicating visualizations without visuals: Investigation of visualization alternative text for people with visual impairments'
     year: '2021'
   yeNjTZUAAAAJ:IjCSPb-OGe4C:
@@ -130,11 +130,11 @@ papers:
     title: 'GazePrompt: Enhancing Low Vision People''s Reading Experience with Gaze-Aware Augmentations'
     year: '2024'
   yeNjTZUAAAAJ:NaGl4SEjCO4C:
-    citations: 40
+    citations: 41
     title: 'Cookar: Affordance augmentations in wearable ar to support kitchen tool interactions for people with low vision'
     year: '2024'
   yeNjTZUAAAAJ:O3NaXMp0MMsC:
-    citations: 26
+    citations: 29
     title: 'StarRescue: the Design and Evaluation of A Turn-Taking Collaborative Game for Facilitating Autistic Children''s Social Skills'
     year: '2024'
   yeNjTZUAAAAJ:QIV2ME_5wuYC:
@@ -142,7 +142,7 @@ papers:
     title: Understanding the use of artificial intelligence based visual aids for people with visual impairments
     year: '2020'
   yeNjTZUAAAAJ:R3hNpaxXUhUC:
-    citations: 114
+    citations: 115
     title: "\u201Cit\u2019s just part of me:\u201D understanding avatar diversity and self-presentation of people with disabilities in social virtual reality"
     year: '2022'
   yeNjTZUAAAAJ:RGFaLdJalmkC:
@@ -166,7 +166,7 @@ papers:
     title: Practices and Barriers of Cooking Training for Blind and Low Vision People
     year: '2023'
   yeNjTZUAAAAJ:TQgYirikUcIC:
-    citations: 71
+    citations: 70
     title: 'Vrbubble: Enhancing peripheral awareness of avatars for people with visual impairments in social virtual reality'
     year: '2022'
   yeNjTZUAAAAJ:UeHWp8X0CEIC:
@@ -174,7 +174,7 @@ papers:
     title: 'QOOK: enhancing information revisitation for active reading with a paper book'
     year: '2014'
   yeNjTZUAAAAJ:UebtZRa9Y70C:
-    citations: 46
+    citations: 47
     title: Designing interactions for 3D printed models with blind people
     year: '2017'
   yeNjTZUAAAAJ:W7OEmFMy1HYC:
@@ -190,7 +190,7 @@ papers:
     title: The effectiveness of visual and audio wayfinding guidance on smartglasses for people with low vision
     year: '2020'
   yeNjTZUAAAAJ:Y0pCki6q_DkC:
-    citations: 114
+    citations: 116
     title: 'Finding a store, searching for a product: a study of daily challenges of low vision people'
     year: '2016'
   yeNjTZUAAAAJ:YFjsv_pBGBYC:
@@ -206,11 +206,11 @@ papers:
     title: Understanding mixed reality drift tolerance
     year: '2025'
   yeNjTZUAAAAJ:ZeXyd9-uunAC:
-    citations: 45
+    citations: 46
     title: 'Facesight: Enabling hand-to-face gesture interaction on ar glasses with a downward-facing camera vision'
     year: '2021'
   yeNjTZUAAAAJ:Zph67rFs4hoC:
-    citations: 327
+    citations: 329
     title: 'SeeingVR: A set of tools to make virtual reality more accessible to people with low vision'
     year: '2019'
   yeNjTZUAAAAJ:_Qo2XoVZTnwC:
@@ -222,7 +222,7 @@ papers:
     title: 'Not Seeing the Whole Picture: Challenges and Opportunities in Using AI for Co-Making Physical, DIY-AT for People with Visual Impairments'
     year: '2026'
   yeNjTZUAAAAJ:a0OBvERweLwC:
-    citations: 1
+    citations: 2
     title: 'PixelMap: Enhancing Children''s Geography Learning with Tangible Augmented Reality Interaction'
     year: '2024'
   yeNjTZUAAAAJ:aqlVkmm33-oC:
@@ -238,7 +238,7 @@ papers:
     title: How Well Can 3D Accessibility Guidelines Support XR Development? An Interview Study with XR Practitioners in Industry
     year: '2026'
   yeNjTZUAAAAJ:blknAaTinKkC:
-    citations: 26
+    citations: 27
     title: 'SPICA: interactive video content exploration through augmented audio descriptions for blind or low-vision viewers'
     year: '2024'
   yeNjTZUAAAAJ:cFHS6HbyZ2cC:
@@ -250,15 +250,15 @@ papers:
     title: Combining link and content for collective active learning
     year: '2010'
   yeNjTZUAAAAJ:dfsIfKJdRG4C:
-    citations: 2
+    citations: 3
     title: Characterizing Collective Efforts in Content Sharing and Quality Control for ADHD-relevant Content on Video-sharing Platforms
     year: '2025'
   yeNjTZUAAAAJ:e5wmG9Sq2KIC:
-    citations: 23
+    citations: 22
     title: '" I was Confused by It; It was Confused by Me:" Exploring the Experiences of People with Visual Impairments around Mobile Service Robots'
     year: '2022'
   yeNjTZUAAAAJ:eQOLeE2rZwMC:
-    citations: 164
+    citations: 165
     title: 'How people with low vision access computing devices: Understanding challenges and opportunities'
     year: '2016'
   yeNjTZUAAAAJ:f2IySw72cVMC:
@@ -294,15 +294,15 @@ papers:
     title: Demonstration of enabling people with visual impairments to navigate virtual reality with a haptic and auditory cane simulation
     year: '2018'
   yeNjTZUAAAAJ:k_IJM867U9cC:
-    citations: 9
+    citations: 10
     title: A Multi-modal Toolkit to Support DIY Assistive Technology Creation for Blind and Low Vision People
     year: '2023'
   yeNjTZUAAAAJ:lSLTfruPkqcC:
-    citations: 12
+    citations: 14
     title: 'XR for All: Understanding Developers'' Perspectives on Accessibility Integration in Extended Reality'
     year: '2024'
   yeNjTZUAAAAJ:ldfaerwXgEUC:
-    citations: 31
+    citations: 32
     title: 'Inclusive avatar guidelines for people with disabilities: Supporting disability representation in social virtual reality'
     year: '2025'
   yeNjTZUAAAAJ:mVmsd5A6BfQC:
@@ -314,7 +314,7 @@ papers:
     title: 'A Diary Study in Social Virtual Reality: Impact of Avatars with Disability Signifiers on the Social Experiences of People with Disabilities'
     year: '2023'
   yeNjTZUAAAAJ:ns9cj8rnVeAC:
-    citations: 16
+    citations: 17
     title: '" This really lets us see the entire world:" Designing a conversational telepresence robot for homebound older adults'
     year: '2024'
   yeNjTZUAAAAJ:pqnbT2bcN3wC:
@@ -342,11 +342,11 @@ papers:
     title: Understanding how low vision people read using eye tracking
     year: '2023'
   yeNjTZUAAAAJ:rO6llkc54NcC:
-    citations: 8
+    citations: 7
     title: 'AROMA: Mixed-Initiative AI Assistance for Non-Visual Cooking by Grounding Multimodal Information Between Reality and Videos'
     year: '2025'
   yeNjTZUAAAAJ:roLk4NBRz8UC:
-    citations: 156
+    citations: 155
     title: 'ForeSee: A Customizable Head-Mounted Vision Enhancement System for People with Low Vision.'
     year: '2015'
   yeNjTZUAAAAJ:u-x6o8ySG0sC:
@@ -354,11 +354,11 @@ papers:
     title: Smart home on smart phone
     year: '2011'
   yeNjTZUAAAAJ:u5HHmVD_uO8C:
-    citations: 55
+    citations: 56
     title: Batch mode active learning for networked data
     year: '2012'
   yeNjTZUAAAAJ:u_35RYKgDlwC:
-    citations: 5
+    citations: 6
     title: Comparing vibrotactile and skin-stretch haptic feedback for conveying spatial information of virtual objects to blind VR users
     year: '2025'
   yeNjTZUAAAAJ:ufrVoPGSRksC:
@@ -374,7 +374,7 @@ papers:
     title: 'SPICA: interactive video content exploration through augmented audio descriptions for blind or low-vision viewers'
     year: Unknown Year
   yeNjTZUAAAAJ:zA6iFVUQeVQC:
-    citations: 9
+    citations: 10
     title: 'VRSight: An AI-driven scene description system to improve virtual reality accessibility for blind people'
     year: '2025'
   yeNjTZUAAAAJ:zYLM7Y9cAGgC:
