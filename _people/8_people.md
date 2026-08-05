@@ -2,7 +2,7 @@
 layout: page
 title: Ben Schyler Kosa
 description: bkosa [at] cs.wisc.edu
-url_t: https://scholar.google.com/citations?user=gJcWqyQAAAAJ&hl=en
+url_t: https://benskosa.github.io/
 crop: "cropped-image-clip-rectangle"
 img: assets/img/ben.jpg
 importance: 1

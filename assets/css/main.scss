@@ -13,6 +13,8 @@
   $max-content-width: {{ site.max_width | default:  "930px" }}
 );
 
+
+
 /* Your project partials — convert these files to `@use "variables";`
    (or `@use "variables" as *;`) inside each file and qualify variables if needed. */
 @use "themes";
@@ -37,3 +39,6 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+@use "tabler-icons/tabler-icons.scss" with (
+  $ti-font-path: "../fonts"
+);

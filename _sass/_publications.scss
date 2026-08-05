@@ -41,6 +41,10 @@
 
       .preview {
         display: inline-block;
+        width: 100%;
+        min-width: 80px;
+        max-height: 130px;
+        margin-top: 5px;
       }
 
       .abbr {
@@ -69,9 +73,15 @@
 
       .title {
         font-weight: bolder;
+
+        > em {
+          color: #{v.$red-color-dark};
+        }
       }
 
       .author {
+        font-size: small;
+
         a {
           border-bottom: 1px dashed var(--global-theme-color);
 
