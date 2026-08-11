@@ -47,6 +47,29 @@
   pdf={harmharassment.pdf}
 }
 
+@inproceedings{fang2026dyslexia,
+  title={Toward Inclusive Programming Support for Novice Programmers with Dyslexia: Insights from a Comparative Study},
+  author={Fang, Zihan and Chung, Janice and Chen, Ruijia and Barnes, Marcia and Zhao, Yuhang and Huang, Yu},
+  booktitle={ASE 2026},
+  book_abbr={ASE 2026},
+  publisher={ACM},
+  preview={dyslexiacode.png},
+  abstract={Programming attracts diverse learners, including people with dyslexia, yet little is known about how dyslexic learners engage with code compared to natural language. We conducted a mixed-methods eye-tracking study with 24 novice programmers (12 with dyslexia, 12 without) who completed paired code-comprehension and English-comprehension tasks. While both groups showed similar overall scanning patterns, gaze features indicated higher cognitive effort among dyslexic novices during code comprehension, and the performance gap between groups was smaller for code than for English, suggesting that programming-specific representations reshape rather than eliminate dyslexia-related challenges. Dyslexic novices also reported lower confidence and difficulty with symbolic elements and structurally complex code. Our findings offer an empirical basis for AI-assisted programming tools that detect cognitive overload and adapt explanations, feedback, and task support.},
+  pdf={https://doi.org/10.1145/3832783.3834414}
+}
+
+@inproceedings{li2026futuregaze,
+  title={How Much Future Helps? A Controlled Study of Future-Privileged Supervision for Causal Egocentric Gaze Estimation},
+  author={Li, Jia and Zhao, Wenjie and Atisri, Fnu and Aripineni, Sanskriti and Deng, Shijian and Froehlich, Jon E. and Zhao, Yuhang and Tian, Yapeng},
+  booktitle={CVPRW 2026},
+  book_abbr={CVPRW 2026},
+  award={Best Paper Award},
+  publisher={IEEE},
+  preview={futuregaze.png},
+  abstract={Egocentric gaze estimation is usually studied with models that see the whole video, including future frames, while real deployments must predict strictly causally and online. We introduce a controlled framework with a future-aware branch that accesses a tunable look-ahead horizon during training but is discarded at inference, isolating the value of future context while keeping the inference model fixed and causal. On EGTEA Gaze+ and Ego4D, future-privileged supervision consistently improves causal gaze prediction, but gains do not grow monotonically with longer look-ahead: performance peaks within a bounded window of roughly 1.7-3.3 seconds on EGTEA Gaze+ and 2.7 seconds on Ego4D. The results give practical guidance for real-time egocentric gaze modeling with lightweight causal models.},
+  pdf={https://openaccess.thecvf.com/content/CVPR2026W/GAZE/papers/Li_How_Much_Future_Helps_A_Controlled_Study_of_Future-Privileged_Supervision_CVPRW_2026_paper.pdf}
+}
+
 @inproceedings{kosa2026notseeing,
   title={Not Seeing the Whole Picture: Challenges and Opportunities in Using AI for Co-Making Physical, DIY-AT for People with Visual Impairments},
   author={Kosa, Ben and Lee, Hsuanling and Li, Jasmine and Mondal, Sanbrita and Zhao, Yuhang and He, Liang},
@@ -78,28 +101,6 @@
   preview={asknow.png},
   abstract={Students in large-scale classrooms often struggle to ask questions due to limited instructor attention and social pressure. Drawing on interviews with 24 students and 12 instructors, we designed AskNow, a system that lets students ask real-time questions grounded in the ongoing lecture while giving instructors a live view of the questions being asked. A week-long deployment across three university courses with 117 students showed that AskNow reduced students' perceived time to resolve confusion, with instructors rating its responses as accurate and satisfactory.},
   pdf={https://dl.acm.org/doi/10.1145/3772318.3790328}
-}
-
-@inproceedings{fang2026dyslexia,
-  title={Toward Inclusive Programming Support for Novice Programmers with Dyslexia: Insights from a Comparative Study},
-  author={Fang, Zihan and Chung, Janice and Chen, Ruijia and Barnes, Marcia and Zhao, Yuhang and Huang, Yu},
-  booktitle={ASE 2026},
-  book_abbr={ASE 2026},
-  publisher={ACM},
-  preview={dyslexiacode.png},
-  abstract={Programming attracts diverse learners, including people with dyslexia, yet little is known about how dyslexic learners engage with code compared to natural language. We conducted a mixed-methods eye-tracking study with 24 novice programmers (12 with dyslexia, 12 without) who completed paired code-comprehension and English-comprehension tasks. While both groups showed similar overall scanning patterns, gaze features indicated higher cognitive effort among dyslexic novices during code comprehension, and the performance gap between groups was smaller for code than for English, suggesting that programming-specific representations reshape rather than eliminate dyslexia-related challenges. Dyslexic novices also reported lower confidence and difficulty with symbolic elements and structurally complex code. Our findings offer an empirical basis for AI-assisted programming tools that detect cognitive overload and adapt explanations, feedback, and task support.},
-  pdf={https://doi.org/10.1145/3832783.3834414}
-}
-
-@inproceedings{li2026futuregaze,
-  title={How Much Future Helps? A Controlled Study of Future-Privileged Supervision for Causal Egocentric Gaze Estimation},
-  author={Li, Jia and Zhao, Wenjie and Atisri, Fnu and Aripineni, Sanskriti and Deng, Shijian and Froehlich, Jon E. and Zhao, Yuhang and Tian, Yapeng},
-  booktitle={CVPRW 2026},
-  book_abbr={CVPRW 2026},
-  publisher={IEEE},
-  preview={futuregaze.png},
-  abstract={Egocentric gaze estimation is usually studied with models that see the whole video, including future frames, while real deployments must predict strictly causally and online. We introduce a controlled framework with a future-aware branch that accesses a tunable look-ahead horizon during training but is discarded at inference, isolating the value of future context while keeping the inference model fixed and causal. On EGTEA Gaze+ and Ego4D, future-privileged supervision consistently improves causal gaze prediction, but gains do not grow monotonically with longer look-ahead: performance peaks within a bounded window of roughly 1.7-3.3 seconds on EGTEA Gaze+ and 2.7 seconds on Ego4D. The results give practical guidance for real-time egocentric gaze modeling with lightweight causal models.},
-  pdf={https://openaccess.thecvf.com/content/CVPR2026W/GAZE/papers/Li_How_Much_Future_Helps_A_Controlled_Study_of_Future-Privileged_Supervision_CVPRW_2026_paper.pdf}
 }
 
 @inproceedings{killough2025VRSight,
@@ -229,6 +230,18 @@
   preview={easyvizar.jpg},
   abstract={First responders operate in high-stakes, often visually and informationally chaotic indoor environments that demand rapid, accurate decision-making. We present EasyVizAR, an augmented reality system that combines edge computing with computer vision to support situational awareness and coordination during rescue and active-shooter scenarios. EasyVizAR provides real-time object detection and saliency cues, person identification, multi-user 3D map generation, and multimodal AR navigation cues to help first responders share information and navigate hazardous indoor spaces.},
   pdf={https://doi.org/10.3390/app152111498}
+}
+
+@inproceedings{lee2024ARSports,
+  title={Towards AI-Powered AR for Enhancing Sports Playability for People with Low Vision: An Exploration of ARSports},
+  author={Lee, Jaewook and Li, Yang and Bunarto, Dylan and Lee, Eujean and Wang, Olivia H. and Rodriguez, Adrian and Zhao, Yuhang and Tian, Yapeng and Froehlich, Jon E.},
+  booktitle={ISMAR-Adjunct 2024},
+  book_abbr={ISMAR-Adjunct 2024},
+  award={Best Paper Award},
+  publisher={IEEE},
+  preview={arsports.png},
+  abstract={People with low vision (LV) struggle to visually track balls and players in sports like basketball and tennis, which can limit their participation and health. We present ARSports, a wearable AR research prototype that overlays instance segmentation masks in near real-time to improve sports accessibility. We manually collected and annotated novel first-person basketball and tennis datasets, fine-tuned instance segmentation models on them, and built an initial wearable prototype pairing a ZED Mini stereo camera with an Oculus Quest 2. Our evaluations suggest that combining real-time computer vision with AR to create scene-aware visual augmentations is a promising path toward enhancing sports participation for LV individuals. We contribute open-sourced egocentric sports datasets and models, along with insights and design recommendations from a pilot study with an LV research team member.},
+  pdf={arsports.pdf}
 }
 
 @inproceedings{lee2024CookAR,
