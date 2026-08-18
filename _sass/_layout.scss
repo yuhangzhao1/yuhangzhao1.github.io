@@ -34,10 +34,10 @@ body.sticky-bottom-footer {
 }
 
 .btn {
-  background-color: white;
+  background-color: var(--global-bg-color);
   border: 2px solid #{v.$red-color-dark};
   border-radius: 8px;
-  color: black;
+  color: var(--global-text-color);
   padding: 5px 10px;
   text-align: center;
   text-decoration: none;
