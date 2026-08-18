@@ -32,7 +32,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in [Computer Sciences at the University of Wisconsin-Madison](https://www.cs.wisc.edu/). My research interests include Human-Computer Interaction (HCI), accessibility, augmented and virtual reality (AR/VR), and AI-powered interactive systems. **I design and build embodied intelligence for accessiblity: AI-powered XR systems that inteprete user context and behavior, and adaptively enhance human abilities.** Via my research, I seek to understand the challenges and needs of people with diverse abilities, and design systems and interaction techniques to empower them in real life activities as well as the emerging virtual worlds.
+I am an Assistant Professor in [Computer Sciences at the University of Wisconsin-Madison](https://www.cs.wisc.edu/). My research interests include Human-Computer Interaction (HCI), accessibility, augmented and virtual reality (AR/VR), and AI-powered interactive systems. **I design and build embodied intelligence for accessibility: AI-powered XR systems that interpret user context and behavior, and adaptively enhance human abilities.** Via my research, I seek to understand the challenges and needs of people with diverse abilities, and design systems and interaction techniques to empower them in real life activities as well as the emerging virtual worlds.
 
 <!-- My work has been published at many top-tier conferences and journals in the field of Human-Computer Interaction (including three best paper nominees), as well as 3 U.S. and international patents.  -->
 
