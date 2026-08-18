@@ -9,6 +9,7 @@ horizontal: false
 ---
 
 <!-- pages/people.md -->
+
 I lead the [madAbility Lab](https://madability.cs.wisc.edu/) and have the privilege to work with many talented students and collaborators.
 
 <br>
