@@ -68,7 +68,13 @@
     <div class="title">
       <em>{{ pub }}</em> &nbsp;
       {% if entry.award -%}
-        <i class="fas fa-award" style="color: #b71c1c;"></i> <em>{{ entry.award }}</em>
+        {%- assign award_text = entry.award | downcase -%}
+        {%- if award_text contains 'honorable mention' or award_text contains 'recognition' -%}
+          <i class="fas fa-award" style="color: #b71c1c;" aria-hidden="true"></i>
+        {%- else -%}
+          <i class="fas fa-trophy" style="color: #b71c1c;" aria-hidden="true"></i>
+        {%- endif %}
+        <em>{{ entry.award }}</em>
       {%- endif %}
     </div>
     <!-- Author -->
